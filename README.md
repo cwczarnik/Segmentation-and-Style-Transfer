@@ -1,4 +1,3 @@
 # Segmentation-and-Style-Transfer
 
-
-Exploring the emotional arcs of books using sentiment analysis and other various NLP methods.
+Using multiple deep neural networks I created a pipeline from an object segmentation based on Facebook AI Research (FAIR) repositories, written in Torch, as well as Style Transfer using Keras. This project focuses on understanding the inner workings of convolutional networks and image processing.
